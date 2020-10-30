@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'EISHA TIR RAAZIA', // Title for your website.
     tagline: "GHC'2020 Scholar | BS(CS)'2021 @FAST NUCES 🔸DataScience 🔸AI 🔸Research 🔸SWE | Co-Lead, Karachi @PWiC ✨Communities & Outreach",
-    profilePhoto: 'img/profile.png',
+    profilePhoto: 'img/profile_image.jpg',
     url: 'https://eishamazhar.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
