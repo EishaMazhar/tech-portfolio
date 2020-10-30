@@ -21,6 +21,8 @@ Write it in first (I) or third (Your Name Here) person.
 
 Grace Hopper Celebration Attendee
 
+## Experience
+
 ## Recognition
 
 - 2020 Awesome Woman in Technology Award
