@@ -20,9 +20,10 @@ title: About
 ## Tools, Languages and Skills
 
 #### Languages
-<div><img src='https://img.shields.io/badge/-Python-blue'> <img src='https://img.shields.io/badge/-C++-blue'> <img src='https://img.shields.io/badge/-Javascript JS-blue'> <img src='https://img.shields.io/badge/-C-blue'> <img src='https://img.shields.io/badge/-R-blue'></div>
+<div><img src='https://img.shields.io/badge/-Python-blue'> <img src='https://img.shields.io/badge/-C++-blue'> <img src='https://img.shields.io/badge/-Javascript JS-blue'> <img src='https://img.shields.io/badge/-C-blue'> <img src='https://img.shields.io/badge/-R-blue'> <img src='https://img.shields.io/badge/-HTML/CSS-blue'></div>
+
 #### Frameworks, Libraries and Tools
-<div><img src='https://img.shields.io/badge/-Pandas-yellow'> <img src='https://img.shields.io/badge/-requests-yellow'> <img src='https://img.shields.io/badge/-beautifulsoup bs4-yellow'> <img src='https://img.shields.io/badge/-Git-yellow'> <img src='https://img.shields.io/badge/-Tensorflow-yellow'></div>
+<div><img src='https://img.shields.io/badge/-Pandas-yellow'> <img src='https://img.shields.io/badge/-Requests-yellow'> <img src='https://img.shields.io/badge/-Beautifulsoup bs4-yellow'> <img src='https://img.shields.io/badge/-Git & Version control-yellow'> <img src='https://img.shields.io/badge/-Tensorflow-yellow'> <img src='https://img.shields.io/badge/-ReactJS-yellow'> <img src='https://img.shields.io/badge/-TAlib-yellow'> <img src='https://img.shields.io/badge/-sklearn-yellow'> <img src='https://img.shields.io/badge/-Numpy-yellow'> <img src='https://img.shields.io/badge/-Lucid charts-yellow'> <img src='https://img.shields.io/badge/-Stats Model-yellow'> <img src='https://img.shields.io/badge/-VsCode-yellow'></div>
 
 ## Internship and Experience
 
