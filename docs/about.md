@@ -74,7 +74,6 @@ title: About
 ## Extra-Cirricular Activities & Volunteering Experience
 
 - Co-lead Pakistan Women in Computing, Karachi Chapter -- (02/2020 - Present) Leading a team of 40+ people, planned & organized 3 events, including 1 digital Hackathon having a reach of 2000+ audience.
-
 - Software Engineering - SWE
 - AI and Machine Learning
 - Research
