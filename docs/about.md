@@ -17,7 +17,10 @@ title: About
   - Won coding competition in the student category. This competition is organized by 10Pearls University every year in which 500+ females take part from all over Pakistan.
 - Dean Lister Spring 2019, Spring 2018, and Fall 2019.
 
-## Internship and Experience:
+## Tools and Skills
+<div><img src='https://img.shields.io/badge/-Python-blue'> <img src='https://img.shields.io/badge/-C++-blue'></div>
+
+## Internship and Experience
 
 ### Seedcode.io - Aug 2020 - October 2020 (2.5 months)
 #### Data Science Intern
