@@ -33,7 +33,7 @@ title: About
 <div><img src='https://img.shields.io/badge/-MongoDB-orange'> <img src='https://img.shields.io/badge/-Elastic Search-orange'></div>
 
 #### Industry Knowledge and Interests
-<div><img src='https://img.shields.io/badge/-Data Analysis and visualization-green'> <img src='https://img.shields.io/badge/-Web Development-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Research and Development-green'> <img src='https://img.shields.io/badge/-Artificial Intelligence-green'> <img src='https://img.shields.io/badge/-Financial Analysis-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Customer & Market Analysis-green'></div>
+<div><img src='https://img.shields.io/badge/-Data Analysis and visualization-green'> <img src='https://img.shields.io/badge/-Web Development-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Research and Development-green'> <img src='https://img.shields.io/badge/-Artificial Intelligence-green'> <img src='https://img.shields.io/badge/-Financial Analysis-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Customer & Market Analysis-green'> <img src='https://img.shields.io/badge/-Software Engineering (SWE)-green'></div>
 
 ## Internship and Experience
 
@@ -71,9 +71,10 @@ title: About
 **Skills and tools:** *VScode, npm, Javascript, ReactJS, Git, GitHub, HTML, CSS, and MongoDB.*
 
 
-## Interests
+## Extra-Cirricular Activities & Volunteering Experience
 
-- Data Science
+- Co-lead Pakistan Women in Computing, Karachi Chapter -- (02/2020 - Present) Leading a team of 40+ people, planned & organized 3 events, including 1 digital Hackathon having a reach of 2000+ audience.
+
 - Software Engineering - SWE
 - AI and Machine Learning
 - Research
