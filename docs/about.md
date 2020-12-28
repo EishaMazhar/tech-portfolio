@@ -23,10 +23,17 @@ title: About
 <div><img src='https://img.shields.io/badge/-Python-blue'> <img src='https://img.shields.io/badge/-C++-blue'> <img src='https://img.shields.io/badge/-Javascript JS-blue'> <img src='https://img.shields.io/badge/-C-blue'> <img src='https://img.shields.io/badge/-R-blue'> <img src='https://img.shields.io/badge/-HTML/CSS-blue'></div>
 
 #### Frameworks, Libraries and Tools
-<div><img src='https://img.shields.io/badge/-Pandas-yellow'> <img src='https://img.shields.io/badge/-Requests-yellow'> <img src='https://img.shields.io/badge/-Beautifulsoup bs4-yellow'> <img src='https://img.shields.io/badge/-Git & Version control-yellow'> <img src='https://img.shields.io/badge/-Tensorflow-yellow'> <img src='https://img.shields.io/badge/-Keras-yellow'> <img src='https://img.shields.io/badge/-ReactJS-yellow'> <img src='https://img.shields.io/badge/-TAlib-yellow'> <img src='https://img.shields.io/badge/-sklearn-yellow'> <img src='https://img.shields.io/badge/-Numpy-yellow'> <img src='https://img.shields.io/badge/-Lucid charts-yellow'> <img src='https://img.shields.io/badge/-Figma-yellow'><img src='https://img.shields.io/badge/-Stats Model-yellow'> <img src='https://img.shields.io/badge/-VsCode-yellow'> <img src='https://img.shields.io/badge/-jupyter notebook-yellow'> <img src='https://img.shields.io/badge/-Google Colab-yellow'> </div>
+<div><img src='https://img.shields.io/badge/-Pandas-yellow'> <img src='https://img.shields.io/badge/-Requests-yellow'> <img src='https://img.shields.io/badge/-Beautifulsoup bs4-yellow'> <img src='https://img.shields.io/badge/-Git & Version control-yellow'> <img src='https://img.shields.io/badge/-Tensorflow-yellow'> <img src='https://img.shields.io/badge/-Keras-yellow'> <img src='https://img.shields.io/badge/-pymongo-yellow'><img src='https://img.shields.io/badge/-ReactJS-yellow'> <img src='https://img.shields.io/badge/-TAlib-yellow'> <img src='https://img.shields.io/badge/-sklearn-yellow'> <img src='https://img.shields.io/badge/-Numpy-yellow'> <img src='https://img.shields.io/badge/-Lucid charts-yellow'> <img src='https://img.shields.io/badge/-Figma-yellow'><img src='https://img.shields.io/badge/-Stats Model-yellow'> <img src='https://img.shields.io/badge/-VsCode-yellow'> <img src='https://img.shields.io/badge/-jupyter notebook-yellow'> <img src='https://img.shields.io/badge/-Google Colab-yellow'> </div>
+
+#### DataBases
+**SQL**
+<div><img src='https://img.shields.io/badge/-SQL Server-orange'> <img src='https://img.shields.io/badge/-PG SQL-orange'></div>
+
+**No-SQL**
+<div><img src='https://img.shields.io/badge/-MongoDB-orange'> <img src='https://img.shields.io/badge/-Elastic Search-orange'></div>
 
 #### Industry Knowledge and Interests
-<div><img src='https://img.shields.io/badge/-Data Analysis and visualization-green'> <img src='https://img.shields.io/badge/-Web Development-green'> <img src='https://img.shields.io/badge/-Research and Development-green'> <img src='https://img.shields.io/badge/-Artificial Intelligence-green'> <img src='https://img.shields.io/badge/-Financial Analysis-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Customer & Market Analysis-green'></div>
+<div><img src='https://img.shields.io/badge/-Data Analysis and visualization-green'> <img src='https://img.shields.io/badge/-Web Development-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Research and Development-green'> <img src='https://img.shields.io/badge/-Artificial Intelligence-green'> <img src='https://img.shields.io/badge/-Financial Analysis-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Customer & Market Analysis-green'></div>
 
 ## Internship and Experience
 
