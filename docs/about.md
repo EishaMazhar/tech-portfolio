@@ -73,10 +73,11 @@ title: About
 
 ## Extra-Cirricular Activities & Volunteering Experience
 
-- Co-lead Pakistan Women in Computing, Karachi Chapter -- (02/2020 - Present) Leading a team of 40+ people, planned & organized 3 events, including 1 digital Hackathon having a reach of 2000+ audience.
-- Software Engineering - SWE
-- AI and Machine Learning
-- Research
+- **Co-lead [Pakistan Women in Computing](https://pwic.org/), Karachi Chapter** -- (02/2020 - Present) Leading a team of 40+ people, planned & organized 3 events, including 1 digital Hackathon having a reach of 2000+ audience.
+- **Co-lead** Corporate affairs and outreach in **PROCOM’2020**.
+- "Head, HR** in **ACM NUCES'2019**.
+- Efficiently lead a team of 25+ people as **Head of Creativity and theme planning** in **PROCOM’2019**.
+- **Volunteer** in organizing and marketing/outreach teams of **Google Developer Club, Major League Hacking, and Facebook Developer Circles Karachi**.
 
 ## Hobbies
 
