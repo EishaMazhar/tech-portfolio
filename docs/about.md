@@ -8,7 +8,7 @@ title: About
 ## Education
 
 - BS(CS) @FAST National University of Computer & Emerging Sciences (2017-2021).
-- BAMM PECHS Govt Girls College, Karachi (2015-2017)
+- Pre-Engineering @BAMM PECHS Govt Girls College, Karachi (2015-2017)
 - MGSS - Ismailia Youth Services School (Batch of 2015)
 
 ## Recognitions and Achievements
