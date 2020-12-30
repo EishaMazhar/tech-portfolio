@@ -10,16 +10,12 @@ a screenshot or GIF to show it.
 
 ## FYP - (Final Year Project 2020-2021)
 
-## Data Science
+## Product Title Chained Classification on Lazada's Dataset - (Information Retreivel/NLP Project 2020) 
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+Combined the concepts of Machine Learning, DL(Recurrent Neural Networks architecture), and Information Retrieval techniques with complete data and natural language preprocessing pipeline to solve multi level-category classification(Lazada Dataset with 37000 title records) problem with 87% accuracy.
 
-![Add alternate text for image](./assets/rosemary.png)
+To see the source code, [Click here!](https://github.com/EishaMazhar/Product-Title-Classification)
 
-## Data Science
+// or even embed images with the following Markdown:
+// ![Add alternate text for image](./assets/rosemary.png)
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
