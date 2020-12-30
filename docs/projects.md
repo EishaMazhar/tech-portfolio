@@ -26,8 +26,7 @@ Followed Agile Software Development Life Cycle(SDLC) approach to recommend CVs b
 
 To see the source code, [Click here!](https://github.com/EishaMazhar/Software-Engineering-BackendCode-with-ProjectProposal-and-Report-CV-Recommender)
 
-## Sample 
+[//]: # (## Sample)
 
-or even embed images with the following Markdown:
-![Add alternate text for image](./assets/rosemary.png)
+[//]: # (or even embed images with the following Markdown: ![Add alternate text for image](./assets/rosemary.png))
 
