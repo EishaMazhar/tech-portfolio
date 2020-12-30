@@ -5,9 +5,11 @@ title: About
 
 > I am a final-year BS(CS) student at FAST National University of Computer and Emerging Sciences.
 
-## Current Role
+## Education
 
-- Student & Intern
+- BS(CS) @FAST National University of Computer & Emerging Sciences (2017-2021).
+- BAMM PECHS Govt Girls College, Karachi (2015-2017)
+- MGSS - Ismailia Youth Services School (Batch of 2015)
 
 ## Recognitions and Achievements
 
@@ -75,7 +77,7 @@ title: About
 
 - **Co-lead [Pakistan Women in Computing](https://pwic.org/), Karachi Chapter** -- (02/2020 - Present) Leading a team of 40+ people, planned & organized 3 events, including 1 digital Hackathon having a reach of 2000+ audience.
 - **Co-lead** Corporate affairs and outreach in **PROCOM’2020**.
-- "Head, HR** in **ACM NUCES'2019**.
+- **Head, HR** in **ACM NUCES'2019**.
 - Efficiently lead a team of 25+ people as **Head of Creativity and theme planning** in **PROCOM’2019**.
 - **Volunteer** in organizing and marketing/outreach teams of **Google Developer Club, Major League Hacking, and Facebook Developer Circles Karachi**.
 
