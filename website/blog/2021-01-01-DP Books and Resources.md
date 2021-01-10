@@ -7,5 +7,6 @@ I made a video in which I compiled some of my favorite Design Patterns books and
 Click below to watch the video:
 [![DP Books](https://j.gifs.com/zvrB5y.gif)](https://youtu.be/ulw97vw7g5s "DP Books")
 
-Link to my Drive and Cheatsheet:
+<!--Link to my Drive and Cheatsheet:
 https://drive.google.com/drive/folders/1HIfRkBcltMQ-B9HzzA-w65-3pHvsaku4?usp=sharing
+-->
