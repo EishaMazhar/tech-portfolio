@@ -3,7 +3,7 @@ id: about
 title: About
 ---
 
-> I am an enthausiastic final-year BS(CS) student at FAST National University of Computer and Emerging Sciences, and 1 out 4 GHC'2020 Scholarship recipients from Pakistan. I'm passionate about technology, and I always dream of contributing in tech for making this world a better place.
+> I am an enthausiastic final-year BS(CS) student at FAST National University of Computer and Emerging Sciences, and 1 out 4 GHC'2020 Scholarship recipients from Pakistan. I'm passionate about technology, and have a passion of contributing in tech for making this world a better place.
 
 ## Education
 
