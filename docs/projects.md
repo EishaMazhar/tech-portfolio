@@ -7,6 +7,11 @@ Here are some of my notable projects.
 
 ## FYP - (Final Year Project 2020-2021)
 
+Sales and demand forecasting, customer conversion, and expected show rate projections are an integral part of a business, like TRA(Travel Resorts of America), that directly impacts revenue and day-to-day business operations. For forecasting of sales and projection of bookings, there are several factors that are involved and can be answered by applying different analysis techniques to the leads data. This project helped the company to estimate customer demand in advance and make pre-arrangements accordingly, and find out the factors that convert a booking into a tour, and then convert a potential customer into a permanent member while doing sales forecasting to increase revenue, improve customer experience, and reduce complaints.
+
+In this project, we ran 360+ ML, DL, and rolling-average based experiments to find out best model for sales forecasting, and finally proposed an ML-LA(Machine Learning and Longitudinal Averaging) based ensemble which gave us 96% accuracy with the best AUC-ROC, and other metrics score among all other 360+ models.
+
+**Tech Stack:** Pandas, Tensorflow, Keras, Python, Google Colab, Sklearn, Numpy, Docker, FastAPI, Streamlit, Elastic Search (Kibana), Matplotlib, SNS, etc.
 
 ## ML-Powered Product Title Chained Classification, on Lazada's Dataset - (Information Retreivel/NLP Project 2020) 
 
