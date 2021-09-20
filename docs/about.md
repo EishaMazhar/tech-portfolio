@@ -7,17 +7,21 @@ title: About
 
 ## Education
 
-- BS(CS) @FAST National University of Computer & Emerging Sciences (2017-2021).
-- Pre-Engineering @BAMM PECHS Govt Girls College, Karachi (2015-2017)
-- MGSS - Ismailia Youth Services School (Batch of 2015)
+- BS(CS) @FAST National University of Computer & Emerging Sciences (2017-2021, 3.73 CGPA).
+- Pre-Engineering @BAMM PECHS Govt Girls College, Karachi (2015-2017, A+ Grade)
+- MGSS - Ismailia Youth Services School (Batch of 2015, A+ Grade)
 
 ## Recognitions and Achievements
 
+- Submitted a research paper on 'ML-based Analysis on Rating generation through Amazon Reviews', in FIT'2021 Conference, by COMSATS Islamabad.
+- Winner 'For Women, by Women - Douglas Award' in Rutgers University's Global Hackathon “HackHERS’21”.
+- Built the idea of Safe Pooling App, which got 4th rank out of 200 teams in Built by her 2020 hackathon: by NIC Khi.
+- 2nd Prize/Raffle Winner in MLH Cyber Security Challenge, in Fashion Tech Hackathon 2021.
 - GHC(Grace Hopper Celebrations) Student Scholar 2020.
   - 1 of 1300 scholars who got an opportunity to attend the World's largest Women in Tech conference.
 - Winner of Women Tech Quest'2020-Coding Competition.
   - Won coding competition in the student category. This competition is organized by 10Pearls University every year in which 500+ females take part from all over Pakistan.
-- Dean Lister Spring 2019, Spring 2018, and Fall 2019.
+- Dean's Lister Spring'18, Spring'19, Fall'19, Fall'20, Spring'20, Fall'20, and Spring'21.
 
 ## Tools, Languages and Skills
 
@@ -39,11 +43,24 @@ _No-SQL_
 
 <div><img src='https://img.shields.io/badge/-MongoDB-orange'> <img src='https://img.shields.io/badge/-Elastic Search-orange'></div>
 
+#### Project Management Tools
+
+<div><img src='https://img.shields.io/badge/-Asana-grey'> <img src='https://img.shields.io/badge/-Notion-grey'> <img src='https://img.shields.io/badge/-Trello-grey'></div>
+
 #### Industry Knowledge and Interests
 
 <div><img src='https://img.shields.io/badge/-Data Analysis and visualization-green'> <img src='https://img.shields.io/badge/-Web Development-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Research and Development-green'> <img src='https://img.shields.io/badge/-Artificial Intelligence-green'> <img src='https://img.shields.io/badge/-Financial Analysis-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Customer & Market Analysis-green'> <img src='https://img.shields.io/badge/-Software Engineering (SWE)-green'></div>
 
 ## Internship and Experience
+
+### Travel Resorts of America - Internship: Sept 2020 - Jan 2021, Full time(Remote): Feb 21 - Aug 21 (1 Year)
+
+#### Data Scientist/Python Engineer
+
+- Implemented the whole data science pipeline, and built a model on 1M prospects data that decreased the 'no tour' rate to 77% on the real-time data. 
+- After running 360+ ML, DL, and averaging-based experiments proposed an ML-LA ensemble, which gave 96% accuracy on the real-time data.
+
+**Skills and Tools:** _Pandas, Tensorflow, Keras, Python, Google Colab, Sklearn, Numpy, Docker, FastAPI, Streamlit, Elastic Search (Kibana), Matplotlib, jupyter notebook, MongoDB, pytests._
 
 ### Seedcode.io - Aug 2020 - October 2020 (2.5 months)
 
@@ -57,7 +74,7 @@ _No-SQL_
 
 **Skills and Tools:** _Python, vs code, MongoDB, pymongo, beautiful soup(bs4), requests, Django, Javascript, jupyter notebook, ta-lib, lucid charts._
 
-### Bytecorp.io - April 2020 - Aug 2020 (5 months)
+### Bytecorp.io - March 2020 - Aug 2020 (6 months)
 
 #### Machine Learning Intern
 
