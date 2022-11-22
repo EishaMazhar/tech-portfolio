@@ -3,7 +3,8 @@ id: about
 title: About
 ---
 
-> I am an enthausiastic final-year BS(CS) student at FAST National University of Computer and Emerging Sciences, and 1 out 4 GHC'2020 Scholarship recipients from Pakistan. I'm passionate about technology, and have a passion of contributing in tech for making this world a better place.
+> I am an enthausiastic with 2+ years of experience in the AI and SWE. I completed my BS(CS) from FAST National University of Computer and Emerging Sciences in 2021, and among 1 out of 4 GHC'2020 Scholarship recipients from Pakistan. I'm currently leading Pakistani Women in Computing's Karachi Chapter, and I'm passionate about technology, and possess a passion of contributing in tech for making this world a better place.
+
 
 ## Education
 
