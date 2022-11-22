@@ -4,6 +4,9 @@ title: Projects
 ---
 
 Here are some of my notable projects.
+## Design Portfolio 
+
+[Design Portfolio](https://www.notion.so/Design-Portfolio-9d0c9c8aa3dc4444a4c77d0cb8c9ffe8)
 
 ## FYP - (Final Year Project 2020-2021)
 
@@ -51,8 +54,3 @@ To see the source code, [Click here!](https://github.com/EishaMazhar/Software-En
 Compared 5 series to exhibit a contrast between multi-threads and multi-processes in Ubuntu (Linux Operating System).
 
 **Tech Stack** Linux/Unix- Ubuntu, C, fork methods, VMware.
-
-<!--
-## Sample-->
-
-<!-- or even embed images with the following Markdown: ![Add alternate text for image](./assets/rosemary.png)-->
