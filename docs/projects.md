@@ -33,6 +33,7 @@ Followed Agile Software Development Life Cycle(SDLC) approach to recommend CVs b
 
 **Tech Stack:** HTML, CSS, JavaScript, Flask, MongoDB, and ReactJS, JWTdecode, pdfminer.
 
+<div>
 <p float="left">
    <img src="https://github.com/EishaMazhar/CV-Recommender/blob/master/CV%20recommender_Mockups/WhatsApp%20Image%202020-02-09%20at%209.00.54%20PM%20(2).jpeg"   width="300" height="150"/> 
   <img src="https://github.com/EishaMazhar/CV-Recommender/blob/master/CV%20recommender_Mockups/WhatsApp%20Image%202020-02-09%20at%209.00.54%20PM%20(4).jpeg" width="300" height="150" />
@@ -40,6 +41,7 @@ Followed Agile Software Development Life Cycle(SDLC) approach to recommend CVs b
   <img src="https://github.com/EishaMazhar/CV-Recommender/blob/master/CV%20recommender_Mockups/WhatsApp%20Image%202020-02-09%20at%209.00.54%20PM.jpeg" width="300" height="150"  />
   <img src="https://github.com/EishaMazhar/CV-Recommender/blob/master/CV%20recommender_Mockups/WhatsApp%20Image%202020-02-09%20at%209.00.54%20PM%20(3).jpeg" width="300" height="150" />
 </p>
+</div>
 
 To see the source code, [Click here!](https://github.com/EishaMazhar/Software-Engineering-BackendCode-with-ProjectProposal-and-Report-CV-Recommender)
 
