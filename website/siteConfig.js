@@ -16,7 +16,7 @@ const siteConfig = {
     tagline: "Karachi Chapter Lead @PWiC | GHC'2020 Scholar | BS(CS)'2021 @FAST NUCES 🔸DataScience 🔸AI 🔸Research 🔸SWE | ✨Communities & Outreach",
     profilePhoto: 'img/profile_image.jpg',
     url: 'https://eishamazhar.github.io', // Your website URL
-    baseUrl: '/tech-portfolio/', // Base URL for your project */
+    baseUrl: '/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
