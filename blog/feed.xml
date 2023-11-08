@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>EISHA TIR RAAZIA Blog</title>
+        <link>https://eishamazhar.github.io/blog</link>
+        <description>The best place to stay up-to-date with the latest EISHA TIR RAAZIA news and events.</description>
+        <lastBuildDate>Sat, 13 Nov 2021 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>EISHA TIR RAAZIA Blog</title>
+            <url>https://eishamazhar.github.io/undefined</url>
+            <link>https://eishamazhar.github.io/blog</link>
+        </image>
+        <copyright>Copyright © 2023</copyright>
+        <item>
+            <title><![CDATA[Govtech 2021 Hackathon Runner-up]]></title>
+            <link>https://eishamazhar.github.io/blog/2021/11/13/Received Govtech Hackathon Runner-up Prize Money.html</link>
+            <guid>https://eishamazhar.github.io/blog/2021/11/13/Received Govtech Hackathon Runner-up Prize Money.html</guid>
+            <pubDate>Sat, 13 Nov 2021 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>The Digital Youth Summit (DYS) is a technology-focused conference that takes place annually in Peshawar, Pakistan; whereas Code for Pakistan (CFP) is a non-profit organization registered as Foundation for Civic Tech at the Securities and Exchange Com...</p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Best Design Patterns Books and Resources]]></title>
+            <link>https://eishamazhar.github.io/blog/2021/01/01/DP Books and Resources.html</link>
+            <guid>https://eishamazhar.github.io/blog/2021/01/01/DP Books and Resources.html</guid>
+            <pubDate>Fri, 01 Jan 2021 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>I made a video in which I compiled some of my favorite Design Patterns books and resources that helped me a lot when I was studying the DP course!</p> <p>In this video I've compiled all the resources:</p> <iframe width="600" height="345" src="https://www.youtube.com/embed/ulw97vw7g5s?playlist=ulw97vw7g5s&loop=1&controls=1&autoplay=1&mute=1"> </iframe>   ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Pitched Idea of Safe Pooling in NIC Hackathon]]></title>
+            <link>https://eishamazhar.github.io/blog/2020/11/11/NIC Hackathon.html</link>
+            <guid>https://eishamazhar.github.io/blog/2020/11/11/NIC Hackathon.html</guid>
+            <pubDate>Wed, 11 Nov 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Team Members:</p> <ul> <li>Eisha Tir Raazia</li> <li>Mahnoor Imtiaz</li> <li>Maria Ahmed</li> <li>Sarah Fatima</li> <li>Tabinda Qavi</li> </ul> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[I gave Google's SWE'2021 STEP Internship Test]]></title>
+            <link>https://eishamazhar.github.io/blog/2020/10/11/Google STEP Test.html</link>
+            <guid>https://eishamazhar.github.io/blog/2020/10/11/Google STEP Test.html</guid>
+            <pubDate>Sun, 11 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>In google's step internship test, there were total 3 questions:</p> <ul> <li>1 question related to string manipulation. (Average difficulty)</li> <li>1 Dynamic programming question, needing implementation of optimal path finding algo. (Very Hard)</li> <li>1 simple array problem. ...</li></ul>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Attended vGHC 2020 - World's biggest women in tech conference]]></title>
+            <link>https://eishamazhar.github.io/blog/2020/10/02/Attended GHC-post.html</link>
+            <guid>https://eishamazhar.github.io/blog/2020/10/02/Attended GHC-post.html</guid>
+            <pubDate>Fri, 02 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>I learned how to create my technical portfolio at Grace Hopper Celebration 2020!</p> ]]></description>
+        </item>
+    </channel>
+</rss>
