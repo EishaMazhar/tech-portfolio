@@ -3,25 +3,25 @@ id: about
 title: About
 ---
 
-> I am an experienced Data Scientist and Software Engineer for ML Infrastructure. I have a Bachelor’s degree in Computer Science, and around 3 years of professional experience in software engineering and data science. I'm passionate about technology and possess a passion for contributing in tech to make this world a better place.
+> A software engineer with 3 years of experience in developing apps. Skilled in designing and implementing scalable software architectures, deploying machine learning models, and collaborating with teams to deliver high-quality products. Proficient in modern programming languages like Python and JavaScript, and popular ML frameworks like TensorFlow and PyTorch. Passionate about technology and problem-solving, committed to continuous learning, and a strong communicator and collaborator. I am passionate about contributing to tech to improve this world.
 
 
 ## Education
 
-- BS(CS) @FAST National University of Computer & Emerging Sciences (2017-2021, 3.73 CGPA).
+- Masters in Digital Systems & Services @University of Geneva (Feb 2024 - August 2025, 5.55/6 SGPA)
+- BS(CS) @FAST National University of Computer & Emerging Sciences (2017-2021, 3.73/4.0 CGPA).
 - Pre-Engineering @BAMM PECHS Govt Girls College, Karachi (2015-2017, A+ Grade)
 - MGSS - Ismailia Youth Services School (Batch of 2015, A+ Grade)
 
 ## Recognitions and Achievements
 
-- Submitted a research paper on 'ML-based Analysis on Rating generation through Amazon Reviews', in FIT'2021 Conference, by COMSATS Islamabad.
 - Winner 'For Women, by Women - Douglas Award' in Rutgers University's Global Hackathon “HackHERS’21”.
 - Built the idea of Safe Pooling App, which got 4th rank out of 200 teams in Built by her 2020 hackathon: by NIC Khi.
 - 2nd Prize/Raffle Winner in MLH Cyber Security Challenge, in Fashion Tech Hackathon 2021.
 - GHC(Grace Hopper Celebrations) Student Scholar 2020.
   - 1 of 1300 scholars who got an opportunity to attend the World's largest Women in Tech conference.
 - Winner of Women Tech Quest'2020-Coding Competition.
-  - Won coding competition in the student category. This competition is organized by 10Pearls University every year in which 500+ females take part from all over Pakistan.
+  - Won a coding competition in the student category. This competition is organized by 10Pearls University every year in which 500+ females take part from all over Pakistan.
 - Dean's Lister Spring'18, Spring'19, Fall'19, Fall'20, Spring'20, Fall'20, and Spring'21.
 
 ## Tools, Languages and Skills
