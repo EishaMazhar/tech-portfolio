@@ -30,7 +30,7 @@ jobs:
 
 # Upload the build output as a Pages artifact
     - name: Upload Production Artifacts
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v3
       with:
         # Point this to your final build output directory
         path: website/build
