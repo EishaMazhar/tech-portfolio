@@ -25,5 +25,6 @@ jobs:
     - name: Publish to GitHub Pages
       working-directory: website/build/tech-portfolio
       run: |
+        cd website/build/tech-portfolio
         touch .nojekyll
         GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} INPUT_DIRECTORY=$(pwd) publish.sh
