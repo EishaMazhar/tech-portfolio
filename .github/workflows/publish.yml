@@ -13,7 +13,7 @@ jobs:
     container:
       image: joatmon08/tech-portfolio
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Install dependencies and static website
       run: |
         cd website
