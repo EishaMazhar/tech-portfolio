@@ -21,19 +21,14 @@ jobs:
       run: |
         yarn install
         yarn build
-      
-    # - name: Publish to GitHub Pages
-    #   working-directory: .
-    #   run: |
-    #     touch .nojekyll
-    #     GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} INPUT_DIRECTORY=$(pwd) publish.sh
+  
 
 # Upload the build output as a Pages artifact
     - name: Upload Production Artifacts
       uses: actions/upload-pages-artifact@v3
       with:
         # Point this to your final build output directory
-        path: website/build
+        path: website/build/tech-portfolio
 
   # Deploy job
   deploy:
