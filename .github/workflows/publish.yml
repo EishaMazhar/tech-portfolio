@@ -23,7 +23,7 @@ jobs:
         yarn build
       
     - name: Publish to GitHub Pages
-      working-directory: website/build/tech-portfolio
+      working-directory: .
       run: |
         touch .nojekyll
         GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} INPUT_DIRECTORY=$(pwd) publish.sh
