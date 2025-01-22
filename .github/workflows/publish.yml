@@ -41,6 +41,9 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     # Required permissions for GitHub Pages deployment
+    environment:
+      name: github-pages
+    
     permissions:
       pages: write
       id-token: write
