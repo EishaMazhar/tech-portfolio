@@ -1,6 +1,5 @@
 # This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-
 name: Publish Portfolio to GitHub Pages
 
 on:
@@ -13,15 +12,17 @@ jobs:
     container:
       image: joatmon08/tech-portfolio
     steps:
-    - uses: actions/checkout@v3
-    - name: Install dependencies and static website
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      
+    - name: Install Dependencies and Build Static Website
+      working-directory: website
       run: |
-        cd website
         yarn install
         yarn build
-    - name: Push to Github Pages branch
+      
+    - name: Publish to GitHub Pages
+      working-directory: website/build/tech-portfolio
       run: |
-        cd website/build/tech-portfolio
         touch .nojekyll
         GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} INPUT_DIRECTORY=$(pwd) publish.sh
-        
