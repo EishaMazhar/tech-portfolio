@@ -27,3 +27,24 @@ jobs:
       run: |
         touch .nojekyll
         GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} INPUT_DIRECTORY=$(pwd) publish.sh
+
+# Upload the build output as a Pages artifact
+    - name: Upload Production Artifacts
+      uses: actions/upload-pages-artifact@v1
+      with:
+        # Point this to your final build output directory
+        path: website/build
+
+  # Deploy job
+  deploy:
+    # Make sure it waits for the build to finish
+    needs: build
+    runs-on: ubuntu-latest
+    # Required permissions for GitHub Pages deployment
+    permissions:
+      pages: write
+      id-token: write
+    
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
