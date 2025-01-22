@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: joatmon08/tech-portfolio
+      image: node:14
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3
