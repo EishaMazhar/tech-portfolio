@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'EISHA TIR RAAZIA', // Title for your website.
-    tagline: "Karachi Chapter Lead @PWiC | GHC'2020 Scholar | BS(CS)'2021 @FAST NUCES 🔸DataScience 🔸AI 🔸Research 🔸SWE | ✨Communities & Outreach",
+    tagline: "Masters in Digital Systems & Service @CUI, UNIGE | Google WTM Ambassador, Geneva | 🔸Knowledge Engineering & Data 🔸AI 🔸Research 🔸SWE | ✨Love Hackathons",
     profilePhoto: 'img/profile_image.jpg',
     url: 'https://eishamazhar.github.io', // Your website URL
     baseUrl: '/', // Base URL for your project */
