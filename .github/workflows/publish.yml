@@ -11,15 +11,16 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
       
-    - name: Use Node.js 18.x
+    - name: Use Node.js 22.x
       uses: actions/setup-node@v4
       with:
-        node-version: '18.x'
+        cache: 'yarn'
+        cache-dependency-path: website/yarn.lock
         
     - name: Install Dependencies and Build Static Website
       working-directory: website
       run: |
-        yarn install
+        yarn install --frozen-lockfile
         yarn build
   
 
@@ -27,8 +28,8 @@ jobs:
     - name: Upload Production Artifacts
       uses: actions/upload-pages-artifact@v3
       with:
-        # Point this to your final build output directory
-        path: website/build/tech-portfolio
+        # Docusaurus v2 outputs to build/ directory
+        path: website/build
 
   # Deploy job
   deploy:
