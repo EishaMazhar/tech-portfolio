@@ -59,7 +59,7 @@ _No-SQL_
 
 #### Industry Knowledge and Interests
 
-<div><img src='https://img.shields.io/badge/-Data Analysis and visualization-green'> <img src='https://img.shields.io/badge/-Web Development-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Research and Development-green'> <img src='https://img.shields.io/badge/-Artificial Intelligence-green'> <img src='https://img.shields.io/badge/-Financial Analysis-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Customer & Market Analysis-green'> <img src='https://img.shields.io/badge/-Software Engineering (SWE)-green'></div>
+<div><img src='https://img.shields.io/badge/-Data Analysis and visualization-green'> <img src='https://img.shields.io/badge/-Web Development-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Research and Development-green'> <img src='https://img.shields.io/badge/-Artificial Intelligence-green'> <img src='https://img.shields.io/badge/-Financial Analysis-green'> <img src='https://img.shields.io/badge/-Data Science-green'> <img src='https://img.shields.io/badge/-Customer & Market Analysis-green'> <img src='https://img.shields.io/badge/-Software Engineering (SWE)-green'></div><img src='https://img.shields.io/badge/-Open Science-green'> <img src='https://img.shields.io/badge/-Civic Tech-green'> 
 
 ## Internship and Experience
 
