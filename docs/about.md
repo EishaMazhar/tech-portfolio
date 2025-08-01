@@ -3,26 +3,35 @@ id: about
 title: About
 ---
 
-> A software engineer with 3 years of experience in developing apps. Skilled in designing and implementing scalable software architectures, deploying machine learning models, and collaborating with teams to deliver high-quality products. Proficient in modern programming languages like Python and JavaScript, and popular ML frameworks like TensorFlow and PyTorch. Passionate about technology and problem-solving, committed to continuous learning, and a strong communicator and collaborator. I am passionate about contributing to tech to improve this world.
+> Master’s student in Digital Systems and Services at the University of Geneva, specializing in Knowledge Engineering and LLMs. Skilled in scalable software design, ML model deployment, and modern tech stacks (Python, JavaScript). Passionate about leveraging technology and AI to create innovative solutions that make a real-world impact.
 
 
 ## Education
 
-- Masters in Digital Systems & Services @University of Geneva (Feb 2024 - August 2025, 5.55/6 SGPA)
+- Masters in Digital Systems & Services @University of Geneva (Feb 2024 - January 2025, 5.55/6 SGPA)
 - BS(CS) @FAST National University of Computer & Emerging Sciences (2017-2021, 3.73/4.0 CGPA).
 - Pre-Engineering @BAMM PECHS Govt Girls College, Karachi (2015-2017, A+ Grade)
 - MGSS - Ismailia Youth Services School (Batch of 2015, A+ Grade)
 
 ## Recognitions and Achievements
+- **Judge** for **Lego4Quantum Hackathon** in April 2025 by **Goodwall.io**, **CERN**, and **SDG Solution Space**  
+- **Google Women Tech Maker Ambassador** in Geneva (2024-2025)  
+- **Winner** in SDSC Hackathon 2024 at EPFL for presenting a solution with the **best Research Data Infrastructure** for benchmarking ML Models  
+- **Winner** in **CERN WEBFEST 2024**, as a participant from UNIGE, where we presented a solution for **Post Quantum Cryptography in CosmosSDK**  
+- **Winner** [HUG hackathon](https://www.hug.ch/centre-linnovation/hackathon-7) ‘**prize du public**’ category for project AIDeS  
+- **Winner** Developer Week 2021 Hackathon in **HackerRank Challenge**: The Evolution of Tech category  
+- Karachi **Chapter Lead** of Pakistani Women in Computing (**PWiC**) leading a community of **30+ volunteers**  (2020-2023)
+- **Runner up** Govtech Hackathon x Digital Youth Summit (DYS) organized by CFP, KPK government, and World Bank, where we pitched project ["Drive(H)er"](https://devpost.com/software/drive-h-er-safe-pool) and won a prize of **150,000 PKR**  
+- **4th position** in CERN WEBfest 2021  
+- **Winner** of **'For Women, by Women - Douglas Award'** in **Rutgers University's Global Hackathon – HackHERS’21**  
+- **4th place** out of **200 teams** in **Built by Her 2020 Hackathon (NIC Karachi)** for building the idea of a **Safe Pooling App**  
+- **2nd Prize/Raffle Winner** in **MLH Cyber Security Challenge** during **Fashion Tech Hackathon 2021**  
+- **GHC (Grace Hopper Celebrations) Student Scholar 2020**  
+  - Selected as **1 of 1300 scholars** to attend the **world's largest Women in Tech conference**  
+- **Winner** of **Women Tech Quest 2020 – Coding Competition**  
+  - Won in the **student category**, competing against **500+ female participants** from across Pakistan in an annual event organized by **10Pearls University**  
+- **Dean's List Achiever** in **Spring 2018, Spring 2019, Fall 2019, Fall 2020, Spring 2020, Fall 2020, and Spring 2021**  
 
-- Winner 'For Women, by Women - Douglas Award' in Rutgers University's Global Hackathon “HackHERS’21”.
-- Built the idea of Safe Pooling App, which got 4th rank out of 200 teams in Built by her 2020 hackathon: by NIC Khi.
-- 2nd Prize/Raffle Winner in MLH Cyber Security Challenge, in Fashion Tech Hackathon 2021.
-- GHC(Grace Hopper Celebrations) Student Scholar 2020.
-  - 1 of 1300 scholars who got an opportunity to attend the World's largest Women in Tech conference.
-- Winner of Women Tech Quest'2020-Coding Competition.
-  - Won a coding competition in the student category. This competition is organized by 10Pearls University every year in which 500+ females take part from all over Pakistan.
-- Dean's Lister Spring'18, Spring'19, Fall'19, Fall'20, Spring'20, Fall'20, and Spring'21.
 
 ## Tools, Languages and Skills
 
