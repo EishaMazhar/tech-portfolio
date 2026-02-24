@@ -6,17 +6,13 @@ description: Learn more about Eisha Mazhar - Masters student and AI enthusiast
 
 # About Me
 
-> Master's student in Digital Systems and Services at the University of Geneva, specializing in Knowledge Engineering and LLMs. Skilled in scalable software design, ML model deployment, and modern tech stacks (Python, JavaScript). Passionate about leveraging technology and AI to create innovative solutions that make a real-world impact.: about
-title: About
----
-
-> Master’s student in Digital Systems and Services at the University of Geneva, specializing in Knowledge Engineering and LLMs. Skilled in scalable software design, ML model deployment, and modern tech stacks (Python, JavaScript). Passionate about leveraging technology and AI to create innovative solutions that make a real-world impact.
+> Master’s student in Digital Systems and Services at the University of Geneva, specializing in Knowledge Engineering and LLMs. Skilled in scalable software design, ML model deployment, and modern tech stacks (Python, JavaScript). Passionate about leveraging technology, data, and AI to create innovative solutions that make a real-world impact.
 
 
 ## Education
 
-- Masters in Digital Systems & Services @University of Geneva (Feb 2024 - January 2025, 5.55/6 SGPA)
-- BS(CS) @FAST National University of Computer & Emerging Sciences (2017-2021, 3.73/4.0 CGPA).
+- Masters in Digital Systems & Services @University of Geneva (Feb 2024 - March 2026, 5.55/6 SGPA)
+- BS(CS) @FAST National University of Computer & Emerging Sciences (2017-2021, 3.73/4.0 CGPA, Cum laude Distinction).
 - Pre-Engineering @BAMM PECHS Govt Girls College, Karachi (2015-2017, A+ Grade)
 - MGSS - Ismailia Youth Services School (Batch of 2015, A+ Grade)
 
@@ -70,6 +66,7 @@ _No-SQL_
 <div><img src='https://img.shields.io/badge/-Open Science-green' /> <img src='https://img.shields.io/badge/-Civic Tech-green' /></div>
 
 ## Internship and Experience
+
 
 ### Travel Resorts of America - Internship: Sept 2020 - Jan 2021, Full time(Remote): Feb 21 - Aug 21 (1 Year)
 
