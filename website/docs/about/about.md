@@ -67,6 +67,17 @@ _No-SQL_
 
 ## Internship and Experience
 
+### Swiss Data Science Centre (SDSC) - EPFL - November 2025 – March 2026
+
+#### Data Science Intern - Masters Thesis
+
+– Collaborating with the ORDES team on the Open Pulse project to map the research impact of EPFL open-source contributors.
+I am responsible for improving the core ontology, data analysis of repository health across diverse codebases, identifying
+high-impact hackathon repositories leading to development of AI agent for real-time software lifecycle and open science
+community insights.
+**Skills and Tools:** _FastAPI, Python, pydantic, rdflib, GraphDB, Hugging face models and datasets, SHACL, Sparql, pytest, typer, requests,
+beautiful soup, numpy, pandas, etc._
+
 ### UNIGE GSEM-  (Activity Rate: 20 %) February 2025 – July 2025
 
 #### Research and Teaching Assistant to Professor Francois Grey
