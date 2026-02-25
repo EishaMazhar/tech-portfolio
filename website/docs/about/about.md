@@ -69,23 +69,23 @@ _No-SQL_
 
 ### Swiss Data Science Centre (SDSC) - EPFL - November 2025 – March 2026
 
-#### Data Science Intern - Masters Thesis
+#### Data Science Intern - Master's Thesis
 
-– Collaborating with the ORDES team on the Open Pulse project to map the research impact of EPFL open-source contributors.
+– Collaborating with the ORDES team on the **Open Pulse project** to map the research impact of EPFL open-source contributors.
 I am responsible for improving the core ontology, data analysis of repository health across diverse codebases, identifying
 high-impact hackathon repositories leading to development of AI agent for real-time software lifecycle and open science
 community insights.
-**Skills and Tools:** _FastAPI, Python, pydantic, rdflib, GraphDB, Hugging face models and datasets, SHACL, Sparql, pytest, typer, requests,
-beautiful soup, numpy, pandas, etc._
+
+**Skills and Tools:** _FastAPI, Python, pydantic, rdflib, GraphDB, Hugging face models and datasets, SHACL, Sparql, pytest, typer, requests, beautiful soup, numpy, pandas, etc._
 
 ### UNIGE GSEM-  (Activity Rate: 20 %) February 2025 – July 2025
 
 #### Research and Teaching Assistant to Professor Francois Grey
 
 - **Crowdsourcing & AI:**
-– Co-Designed and delivered sessions on crowdsourcing tools and AI, achieving record-high student satisfaction through
+- Co-Designed and delivered sessions on crowdsourcing tools and AI, achieving record-high student satisfaction through
 anonymous feedback.
-– Organized Hackathon Piaget for 55 participants, leading 30 students in building data-driven projects as part of course.
+- Organized Hackathon Piaget for 55 participants, leading 30 students in building data-driven projects as part of course.
 
 ### UNIGE GSEM - (Activity Rate: 35 %) September 2024 – February 2025
 
@@ -110,6 +110,7 @@ without restarting the desktop app.
 helped company in getting ISO 27001 security certification.
 – Led and developed projects ranging from chatbot integrations, DRF backend APIs, AWS lambda scripts & slack webhook
 integration, to automated human detection systems in videos.
+
 **Skills and Tools:** _Django Rest Framework(DRF), Python, vue.js, AWS lambda, tawk.to, Retool, Kibana Dashboards, My SQL server._
 
 ### Travel Resorts of America - Internship: Sept 2020 - Jan 2021, Full time(Remote): Feb 21 - Aug 21 (1 Year)
