@@ -67,6 +67,41 @@ _No-SQL_
 
 ## Internship and Experience
 
+### UNIGE GSEM-  (Activity Rate: 20 %) February 2025 – July 2025
+
+#### Research and Teaching Assistant to Professor Francois Grey
+
+**Crowdsourcing & AI**
+
+– Co-Designed and delivered sessions on crowdsourcing tools and AI, achieving record-high student satisfaction through
+anonymous feedback.
+– Organized Hackathon Piaget for 55 participants, leading 30 students in building data-driven projects as part of course.
+
+### UNIGE GSEM - (Activity Rate: 35 %) September 2024 – February 2025
+
+#### Research and Teaching Assistant to Professor Francois Grey
+ 
+**Data & Statistical Skills for UN SDGs (Offered 1st time)**
+
+– Co-Designed curriculum & taught new skill to GSEM Bachelor’s students, weekly, such as R, Python, Excel, SQL,
+PowerBI, leading to 80%+ positive anonymous student feedback and engagement.
+– Introduced innovative methodologies for analyzing open data to support research aligned with the United Nations SDGs.
+**Open Science**
+
+– Aid in delivering course content to GSEM bachelor students on scientific transparency, reproducibility, and collaboration,
+focusing on crowdsourcing and civic-tech for impactful product development and initiatives.
+
+### Retrocausal.ai - April 2022 - September 2023
+
+#### Full-Stack Software Engineer for Machine Learning Infrastructure
+
+– Created backend APIs & client-end micro-frontend feature to access, manage, and assign IP cameras remotely on devices,
+without restarting the desktop app.
+– Implemented disaster recovery for the backend services and database in same and another region on AWS which significantly
+helped company in getting ISO 27001 security certification.
+– Led and developed projects ranging from chatbot integrations, DRF backend APIs, AWS lambda scripts & slack webhook
+integration, to automated human detection systems in videos.
+**Skills and Tools:** _Django Rest Framework(DRF), Python, vue.js, AWS lambda, tawk.to, Retool, Kibana Dashboards, My SQL server._
 
 ### Travel Resorts of America - Internship: Sept 2020 - Jan 2021, Full time(Remote): Feb 21 - Aug 21 (1 Year)
 
