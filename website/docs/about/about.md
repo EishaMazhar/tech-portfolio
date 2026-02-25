@@ -82,8 +82,7 @@ beautiful soup, numpy, pandas, etc._
 
 #### Research and Teaching Assistant to Professor Francois Grey
 
-**Crowdsourcing & AI**
-
+- **Crowdsourcing & AI:**
 – Co-Designed and delivered sessions on crowdsourcing tools and AI, achieving record-high student satisfaction through
 anonymous feedback.
 – Organized Hackathon Piaget for 55 participants, leading 30 students in building data-driven projects as part of course.
@@ -92,13 +91,12 @@ anonymous feedback.
 
 #### Research and Teaching Assistant to Professor Francois Grey
  
-**Data & Statistical Skills for UN SDGs (Offered 1st time)**
-
+- **Data & Statistical Skills for UN SDGs (Offered 1st time) :**
 – Co-Designed curriculum & taught new skill to GSEM Bachelor’s students, weekly, such as R, Python, Excel, SQL,
 PowerBI, leading to 80%+ positive anonymous student feedback and engagement.
 – Introduced innovative methodologies for analyzing open data to support research aligned with the United Nations SDGs.
-**Open Science**
 
+- **Open Science :**
 – Aid in delivering course content to GSEM bachelor students on scientific transparency, reproducibility, and collaboration,
 focusing on crowdsourcing and civic-tech for impactful product development and initiatives.
 
